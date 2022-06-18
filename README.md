@@ -1,4 +1,4 @@
-# Just a bunch of practice stuff for the Data Structures course
+# Practice for the Data Structures course @ OSU
 
 ## Getting Started
 Luckily, I've already got gcc on my macbook. So you can write code as seen in 
